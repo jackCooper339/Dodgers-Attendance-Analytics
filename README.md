@@ -44,6 +44,8 @@ The analysis uses observational data from one MLB season. Attendance differences
 ## Tableau Dashboard
 
 The packaged Tableau workbook is available in this repository as `Dodgers_Attendance_Analytics.twbx`.
+<img width="1056" height="773" alt="Screenshot 2026-10-21 at 5 48 52 PM" src="https://github.com/user-attachments/assets/b45270b1-6eb7-421a-aa2d-33ffb9a7c4f4" />
+
 
 ## Dataset
 
